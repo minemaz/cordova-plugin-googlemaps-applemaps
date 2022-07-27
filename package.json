@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-googlemaps-applemaps",
-  "version": “1.0.0”,
-  "description": "Google Maps native SDK for Android and iOS (Apple Maps!)“,
+  "version": "1.0.0",
+  "description": "Google Maps native SDK for Android and iOS (Apple Maps!)",
   "cordova": {
     "id": "cordova-plugin-googlemaps-applemaps",
     "platforms": [
@@ -15,8 +15,8 @@
   },
   "keywords": [
     "google",
-    “apple”,
-    “apple maps”,
+    "apple",
+    "apple maps",
     "maps",
     "geo",
     "google maps",
@@ -31,7 +31,7 @@
       "version": ">=3.5.0"
     }
   ],
-  "author": "Masashi Katsumata, Hirbod Mirjavadi, James Mattis (Apple Maps)“,
+  "author": "Masashi Katsumata, Hirbod Mirjavadi, James Mattis (Apple Maps)",
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/jamesmattis/cordova-plugin-googlemaps-applemaps/issues"
